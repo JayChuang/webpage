@@ -1,3 +1,7 @@
+---
+title: Terms & Conditions
+---
+
 **Terms & Conditions**  
 
 These terms and conditions applies to the Let's Share app (hereby referred to as "Application") for mobile devices that was created by Jay Chuang (hereby referred to as "Service Provider") as an Ad Supported service.
