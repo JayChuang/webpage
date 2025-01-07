@@ -2,7 +2,7 @@
 title: About Jay Chuang and projects
 ---
 
-# Let's Share
+# Gotcha Cam
 Introdcution about this project.
 
 # Developer
